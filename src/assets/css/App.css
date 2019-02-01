@@ -1,0 +1,11 @@
+.side-menu {
+  width: 200px;
+}
+
+.app-body {
+  display: flex;
+}
+
+.contents-container {
+  flex: 1;
+}
